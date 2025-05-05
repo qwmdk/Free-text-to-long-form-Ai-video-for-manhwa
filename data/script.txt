@@ -1,0 +1,7 @@
+# Scene 1
+Description: A heroic manga character stands on a cliff at sunset.
+Dialogue: "I will save the world, no matter the cost."
+
+# Scene 2
+Description: A villainous figure laughs in the shadows.
+Dialogue: "You think you can stop me? Foolish hero."
